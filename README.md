@@ -1,4 +1,4 @@
-# Home automation System
+# Home automation system
 This is my university project for the Programming Methodologies course. 
 The project aims to develop a prototype of a software system for home automation, specifically focusing on automatic lighting control. 
 The system utilizes motion and brightness sensors to detect movement and changes in ambient light, enabling it to adjust lighting accordingly. 
